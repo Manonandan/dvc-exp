@@ -1,0 +1,5 @@
+[core]
+    remote = ad_ml
+    autostage = true
+['remote "ad_ml"']
+    url = gdrive://1Ulca73Kh9Jgfho5PlgDhCgDydX76ODZ7
